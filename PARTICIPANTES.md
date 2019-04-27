@@ -1,3 +1,5 @@
 Lista de participantes
 
-Andr�
+André
+Nathan Barsoti
+Moisés Morandini
